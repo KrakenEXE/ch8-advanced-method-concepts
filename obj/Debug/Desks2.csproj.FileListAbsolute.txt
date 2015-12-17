@@ -1,0 +1,12 @@
+C:\Users\teacher\Desktop\Homework\Chapter 7\ExercisesCh8\Desks2\bin\Debug\Desks2.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 7\ExercisesCh8\Desks2\bin\Debug\Desks2.exe
+C:\Users\teacher\Desktop\Homework\Chapter 7\ExercisesCh8\Desks2\bin\Debug\Desks2.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 7\ExercisesCh8\Desks2\obj\Debug\Desks2.exe
+C:\Users\teacher\Desktop\Homework\Chapter 7\ExercisesCh8\Desks2\obj\Debug\Desks2.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 7\ExercisesCh8\Desks2\obj\Debug\Desks2.csprojResolveAssemblyReference.cache
+D:\csharp\Chapter 8\ExercisesCh8\Desks2\bin\Debug\Desks2.exe.config
+D:\csharp\Chapter 8\ExercisesCh8\Desks2\obj\Debug\Desks2.exe
+D:\csharp\Chapter 8\ExercisesCh8\Desks2\obj\Debug\Desks2.pdb
+D:\csharp\Chapter 8\ExercisesCh8\Desks2\bin\Debug\Desks2.exe
+D:\csharp\Chapter 8\ExercisesCh8\Desks2\bin\Debug\Desks2.pdb
+D:\csharp\Chapter 8\ExercisesCh8\Desks2\obj\Debug\Desks2.csprojResolveAssemblyReference.cache
